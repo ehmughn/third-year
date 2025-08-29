@@ -1,4 +1,4 @@
 # Third Year Code Dump
 If you want to copy my work, then here it is
 
-Disclamer: This repository is not meant to be cloned!
+Disclamer: This repository is not meant to be cloned! Just download the project you need
