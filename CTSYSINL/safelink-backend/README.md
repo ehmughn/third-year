@@ -2,6 +2,8 @@
 
 ## Overview
 
+\[!]OUTDATED\[!]
+
 Backend code of SafeLink. [Click here for the frontend](https://github.com/kidlatpogi/SafeLink)
 
 ## Database Setup
